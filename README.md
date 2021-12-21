@@ -3,6 +3,7 @@ Python example for controlling the BK Precision 1823A Frequency Counter. The Pyt
 
 # File Descriptions
 *BK_Precision_1823A_PySerial_Example.py* provides the example for using PySerial to control the BK Precision 1823A
+*BK_1823A_Instruction_Manual.pdf* provides instrument performance and electrical specifications and control command set
 
 # Usage
 1. Download Python v2.7.18 (choose 32 or 64 bit based on the your OS bitness) on a PC.  Other versions of Python might work with this code but they have not been tested.
